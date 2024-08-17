@@ -1,0 +1,77 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: content-box;
+}
+.bar{
+    background-color: black;
+    width: 60px;
+    height: 100vh; /* Full height of the viewport */
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding-top: 20px;
+    position: fixed; 
+}
+.icons{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+    align-items: center;
+}
+.icons svg{
+    height:20px;
+    width: 20px;
+    margin-bottom: 10px;
+    cursor: pointer;
+
+}
+.symbol {
+    margin-top: 20px;
+    width: 42px;
+    height: 42px;
+    border-radius: 50%;
+    background-color: #f88e8e;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    font-weight: bold;
+    cursor: pointer;
+
+  }
+  
+  .symbol-letter {
+    font-size: 24px;
+    font-weight: bold;
+    color: #0a0a0a;
+  }
+  /* Card Styling */
+.card {
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 350px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    position: absolute;
+    top: 60px; /* Adjusts the card position relative to the symbol */
+    left: 70px; /* Adjusts the card position next to the sidebar */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+.feature-card{
+    border: 2px solid black;
+    border-radius: 15px;
+    width: 350px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+    position: absolute;
+    top: 60px; /* Adjusts the card position relative to the symbol */
+    left: 70px; /* Adjusts the card position next to the sidebar */
+    box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+    z-index: 1;
+}
+
