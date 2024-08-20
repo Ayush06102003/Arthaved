@@ -20,6 +20,7 @@
     padding: 10px 0;
     color: antiquewhite;
     border-bottom: 1px solid white; /* Add this line for the white separator */
+    cursor: pointer;
   }
   
   .feature-card li:last-child {
