@@ -66,5 +66,91 @@
         "icon": "arrow-up",
         "title": "Market Trend AI Analysis"
       }
+    ],
+
+    "features3": [
+      {
+        "icon": "grip-lines",
+        "title": "Trend Line"
+      },
+      {
+        "icon": "seedling",
+        "title": "Ray"
+      },
+      {
+        "icon": "lines-leaning",
+        "title": "Info Line"
+      },
+      {
+        "icon": "line-height",
+        "title": "Extended Line"
+      },
+      {
+        "icon": "scalpel-line-dashed",
+        "title": "Trend Angle"
+      },
+      {
+        "icon": "arrow-right-long-to-line",
+        "title": "Horizatal Line"
+      },
+      {
+        "icon": "chart-line",
+        "title": "Horizatal Ray"
+      },
+      {
+        "icon": "arrow-up-from-dotted-line",
+        "title": "Vertical Line"
+      },
+      {
+        "icon": "draw-polygon",
+        "title": "Cross Line"
+      }
+    ],
+
+    "features4": [
+      {
+        "icon": "olive-branch",
+        "title": "Fib Retracement"
+      },
+      {
+        "icon": "sterling-sign",
+        "title": "Trend-based Fib Retracement"
+      },
+      {
+        "icon": "satellite",
+        "title": "Fib Channel"
+      },
+      {
+        "icon": "hand-spock",
+        "title": "Fib Time Zone"
+      },
+      {
+        "icon": "star-of-life",
+        "title": "Fib Speed Resistance Fan"
+      },
+      {
+        "icon": "anchor",
+        "title": "Trend Based Fib Time"
+      },
+      {
+        "icon": "mandolin",
+        "title": "Fib Circles"
+      },
+      {
+        "icon": "galaxy",
+        "title": "Fib Spiral"
+      },
+      {
+        "icon": "cheese",
+        "title": "Fib Wedge"
+      },
+      {
+        "icon": "ruler",
+        "title": "PitchFan"
+      }
+
     ]
+
+
+
   }

@@ -8,10 +8,10 @@ import Home from './components/Home';
 function App() {
   return (
     <>
-      <Card/>
+      {/* <Card/> */}
       {/* <Leftbar/> */}
       {/* <FeatureCard/> */}
-      {/* <Home/> */}
+      <Home/>
     </>
   );
 }

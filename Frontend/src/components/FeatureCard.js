@@ -11,7 +11,6 @@ const FeatureCard = ({feature}) => {
             <i className={`fas fa-${feature.icon}`} />
             {feature.title}
           </li>
-          
         ))}
       </ul>
     </div>
