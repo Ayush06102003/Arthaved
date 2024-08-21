@@ -70,82 +70,82 @@
 
     "features3": [
       {
-        "icon": "grip-lines",
+        "icon": "xmark",
         "title": "Trend Line"
       },
       {
-        "icon": "seedling",
+        "icon": "file",
         "title": "Ray"
       },
       {
-        "icon": "lines-leaning",
+        "icon": "bell",
         "title": "Info Line"
       },
       {
-        "icon": "line-height",
+        "icon": "arrow-up-from-bracket",
         "title": "Extended Line"
       },
       {
-        "icon": "scalpel-line-dashed",
+        "icon": "bookmark",
         "title": "Trend Angle"
       },
       {
-        "icon": "arrow-right-long-to-line",
+        "icon": "minus",
         "title": "Horizatal Line"
       },
       {
-        "icon": "chart-line",
+        "icon": "dribbble",
         "title": "Horizatal Ray"
       },
       {
-        "icon": "arrow-up-from-dotted-line",
+        "icon": "lemon",
         "title": "Vertical Line"
       },
       {
-        "icon": "draw-polygon",
+        "icon": "thumbtack",
         "title": "Cross Line"
       }
     ],
 
     "features4": [
       {
-        "icon": "olive-branch",
+        "icon": "wifi",
         "title": "Fib Retracement"
       },
       {
-        "icon": "sterling-sign",
+        "icon": "sliders",
         "title": "Trend-based Fib Retracement"
       },
       {
-        "icon": "satellite",
+        "icon": "snowflake",
         "title": "Fib Channel"
       },
       {
-        "icon": "hand-spock",
+        "icon": "binoculars",
         "title": "Fib Time Zone"
       },
       {
-        "icon": "star-of-life",
+        "icon": "gears",
         "title": "Fib Speed Resistance Fan"
       },
       {
-        "icon": "anchor",
+        "icon": "hashtag",
         "title": "Trend Based Fib Time"
       },
       {
-        "icon": "mandolin",
+        "icon": "bath",
         "title": "Fib Circles"
       },
       {
-        "icon": "galaxy",
+        "icon": "codepen",
         "title": "Fib Spiral"
       },
       {
-        "icon": "cheese",
+        "icon": "earth-americas",
         "title": "Fib Wedge"
       },
       {
-        "icon": "ruler",
+        "icon": "paint-roller",
         "title": "PitchFan"
       }
 
