@@ -1,76 +1,92 @@
 {
-    "features": [
+    "features1": [
       {
         "icon": "clock",
-        "title": "Dynamic Budgeting Interface"
+        "title": "Dynamic Budgeting Interface",
+        "api":"budgeting-interface"
       },
       {
         "icon": "chart-line",
-        "title": "Forecasting Models"
+        "title": "Forecasting Models",
+        "api":"forcasting-model"
       },
       {
         "icon": "cog",
-        "title": "Expense Categorization AI"
+        "title": "Expense Categorization AI",
+        "api":"exp-categorization"
       },
       {
         "icon": "sync-alt",
-        "title": "Zero-based Budgeting AI Assistant"
+        "title": "Zero-based Budgeting AI Assistant",
+        "api": "zero-budgeting"
       },
       {
         "icon": "chart-bar",
-        "title": "Budget Health Metrics"
+        "title": "Budget Health Metrics",
+        "api":"health-metrics"
       },
       {
         "icon": "chart-area",
-        "title": "Historical Budget Trends Analysis"
+        "title": "Historical Budget Trends Analysis",
+        "api": "trends-analysis"
       },
       {
         "icon": "bullhorn",
-        "title": "Variable Expense Predictor"
+        "title": "Variable Expense Predictor",
+        "api":"expense-predictor"
       },
       {
         "icon": "cube",
-        "title": "What-If Scenario Planning"
+        "title": "What-If Scenario Planning",
+        "api": "scenario-planning"
       }
     ],
     "features2": [
       {
         "icon": "credit-card",
-        "title": "AI Savings Recommendations"
+        "title": "AI Savings Recommendations",
+        "api":"savings-recommendation"
       },
       {
         "icon": "cog",
-        "title": "Automated Investment Analysis"
+        "title": "Automated Investment Analysis",
+        "api":"auto-investment"
       },
       {
         "icon": "home",
-        "title": "Retirement Planning AI Advisor"
+        "title": "Retirement Planning AI Advisor",
+        "api":"retirement-plan"
       },
       {
         "icon": "people-carry",
-        "title": "Goal-based Investment Allocation"
+        "title": "Goal-based Investment Allocation",
+        "api":"goalbased-investment"
       },
       {
         "icon": "database",
-        "title": "Risk Tolerance Assessment Tool"
+        "title": "Risk Tolerance Assessment Tool",
+        "api":"risk-tool"
       },
       {
         "icon": "star",
-        "title": "Savings Milestone Tracker"
+        "title": "Savings Milestone Tracker",
+        "api":"milestone-tracker"
       },
       {
         "icon": "wifi",
-        "title": "Educational Investment Content"
+        "title": "Educational Investment Content",
+        "api":"education-investment"
       },
       {
         "icon": "arrow-up",
-        "title": "Market Trend AI Analysis"
+        "title": "Market Trend AI Analysis",
+        "api":"market-trend"
       }
     ],
 
     "features3": [
       {
-        "icon": "xmark",
+        "icon": "globe",
         "title": "Trend Line"
       },
       {
@@ -82,7 +98,7 @@
         "title": "Info Line"
       },
       {
-        "icon": "arrow-up-from-bracket",
+        "icon": "compass",
         "title": "Extended Line"
       },
       {
@@ -94,7 +110,7 @@
         "title": "Horizatal Line"
       },
       {
-        "icon": "dribbble",
+        "icon": "users",
         "title": "Horizatal Ray"
       },
       {
@@ -113,7 +129,7 @@
         "title": "Fib Retracement"
       },
       {
-        "icon": "sliders",
+        "icon": "palette",
         "title": "Trend-based Fib Retracement"
       },
       {
@@ -125,7 +141,7 @@
         "title": "Fib Time Zone"
       },
       {
-        "icon": "gears",
+        "icon": "gamepad",
         "title": "Fib Speed Resistance Fan"
       },
       {
@@ -137,11 +153,11 @@
         "title": "Fib Circles"
       },
       {
-        "icon": "codepen",
+        "icon": "address-book",
         "title": "Fib Spiral"
       },
       {
-        "icon": "earth-americas",
+        "icon": "binoculars",
         "title": "Fib Wedge"
       },
       {
@@ -150,7 +166,5 @@
       }
 
     ]
-
-
 
   }
